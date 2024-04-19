@@ -1,7 +1,6 @@
 "use client";
 import Image from "next/image";
 import React, { useEffect, useState } from "react";
-import myPhoto from "../../../assets/images/myphoto.jpeg";
 import Link from "next/link";
 import { FaArrowUpRightFromSquare } from "react-icons/fa6";
 import Title from "@/components/molecules/Title";
