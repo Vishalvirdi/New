@@ -64,26 +64,26 @@ const AboutCard = () => {
       <div className="p-6 max-md:p-3">
         <div className="text-lg font-medium pb-2">Profiles</div>
         <div className="flex gap-2">
-          <Link href={"https://www.linkedin.com/in/vishal-virdi/"} target="_blank" className=" border text-xs rounded-lg flex gap-1 items-center p-1">
+          <Link href={"https://www.linkedin.com/in/vishal-virdi/"} target="_blank" className=" border text-xs rounded-lg hover:bg-gray-100 flex gap-1 items-center p-1">
             <FaLinkedin></FaLinkedin>
             LinkedIn
           </Link>
-          <Link href={"https://www.instagram.com/vishal_virdi_"} target="_blank" className=" border text-xs rounded-lg flex gap-1 items-center p-1">
+          <Link href={"https://www.instagram.com/vishal_virdi_"} target="_blank" className=" border text-xs rounded-lg hover:bg-gray-100 flex gap-1 items-center p-1">
             <FaInstagramSquare></FaInstagramSquare>
             Instagram
           </Link>
-          <Link href={"https://github.com/Vishalvirdi"} target="_blank" className=" border text-xs rounded-lg flex gap-1 items-center p-1">
+          <Link href={"https://github.com/Vishalvirdi"} target="_blank" className=" border text-xs rounded-lg flex hover:bg-gray-100 gap-1 items-center p-1">
             <FaGithub></FaGithub>
             Github
           </Link>
        
         </div>
         <Link href={"https://leetcode.com/VishalVirdi"} target="_blank"  className="flex gap-2 pt-2">
-          <div className=" border text-xs rounded-lg flex gap-1 items-center p-1">
+          <div className=" border text-xs rounded-lg flex hover:bg-gray-100 gap-1 items-center p-1">
             <SiLeetcode></SiLeetcode>
             Leetcode
           </div>
-          <Link href={"https://www.geeksforgeeks.org/user/vishalvirdi039/"}  target="_blank" className=" border text-xs rounded-lg flex gap-1 items-center p-1">
+          <Link href={"https://www.geeksforgeeks.org/user/vishalvirdi039/"}  target="_blank" className=" border text-xs hover:bg-gray-100 rounded-lg flex gap-1 items-center p-1">
             <SiGeeksforgeeks></SiGeeksforgeeks>
             GFG
           </Link>
