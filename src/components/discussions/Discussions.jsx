@@ -12,32 +12,32 @@ const Discussions = () => {
         "I am a quick learner of new technologies. I am backend developer as well as frontend developer.",
     },
     {
-      question: "What is Kapil's strength?",
+      question: "What is Vishal's strength?",
       answer:
         "I am a quick learner of new technologies. I am backend developer as well as frontend developer.",
     },
     {
-      question: "What are Kapil's weaknesses?",
+      question: "What are Vishal's weaknesses?",
       answer:
         "I am a quick learner of new technologies. I am backend developer as well as frontend developer.",
     },
     {
-      question: "What are Kapil's short term goals?",
+      question: "What are Vishal's short term goals?",
       answer:
         "I am a quick learner of new technologies. I am backend developer as well as frontend developer.",
     },
     {
-      question: "What are Kapil's long term goals?",
+      question: "What are Vishal's long term goals?",
       answer:
         "I am a quick learner of new technologies. I am backend developer as well as frontend developer.",
     },
     {
-      question: "What are Kapil's achievements?",
+      question: "What are Vishal's achievements?",
       answer:
         "I am a quick learner of new technologies. I am backend developer as well as frontend developer.",
     },
     {
-      question: "What are Kapil's hobbies?",
+      question: "What are Vishal's hobbies?",
       answer:
         "I am a quick learner of new technologies. I am backend developer as well as frontend developer.",
     },

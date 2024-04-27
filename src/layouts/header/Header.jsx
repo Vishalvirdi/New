@@ -25,7 +25,7 @@ const Header = () => {
           <Image src={brave} alt="brave" className="" />
         </div>
         <div className="md:h-12 h-9 md:w-[700px] duration-700 w-full rounded-2xl bg-white border shadow-xl flex items-center justify-between">
-          <span className="pl-7 max-md:text-xs">Kapil Kumar</span>
+          <span className="pl-7 max-md:text-xs">Vishal Virdi</span>
           <div className="flex items-center md:gap-7 gap-4 pr-4">
             <RxCross2 className="text-lg text-gray-400" />
             <hr className="md:h-8 h-6 w-[1px] bg-gray-300" />
